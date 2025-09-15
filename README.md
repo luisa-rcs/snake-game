@@ -34,7 +34,7 @@ React Hooks - useState, useEffect, useCallback para gerenciamento de estado
 
 # Estrutura do Projeto
 
-´´´
+```
 src/
 ├── app/
 │   ├── components/
@@ -53,7 +53,7 @@ src/
 │   ├── layout.tsx                     
 │   └── page.tsx                       
 
-´´´
+```
 
 # Como Jogar
 
