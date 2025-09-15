@@ -96,11 +96,8 @@ Responsividade: Layout adaptável para diferentes dispositivos
 Linkedin: https://www.linkedin.com/in/luísa-silva-dev/
 Contato: (31) 99953-3581
 </div>
-
+<p>
 <div align="center">
   <p>🐍 Divirta-se jogando Snake Game!</p>
 </div>
 =======
-# snake-game
-Snake game simples construído com Next.js e TypeScript
->>>>>>> b3d5be956e5d57cecbbd1acd76e9ba9f5b9c5c02
