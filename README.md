@@ -33,25 +33,24 @@ React Hooks - useState, useEffect, useCallback para gerenciamento de estado
 
 
 # Estrutura do Projeto
-
 ```
 src/
 ├── app/
 │   ├── components/
 │   │   ├── board/
-│   │   │   ├── board.tsx              
-│   │   │   └── board.module.css       
+│   │   │   ├── board.tsx              # Componente do tabuleiro do jogo
+│   │   │   └── board.module.css       # Estilos do tabuleiro
 │   │   ├── button/
-│   │   │   ├── button.tsx             
-│   │   │   └── button.module.css      
+│   │   │   ├── button.tsx             # Componente de botão reutilizável
+│   │   │   └── button.module.css      # Estilos do botão
 │   │   └── header/
-│   │       ├── header.tsx             
-│   │       └── header.module.css      
+│   │       ├── header.tsx             # Componente do cabeçalho
+│   │       └── header.module.css      # Estilos do cabeçalho
 │   ├── hooks/
-│   │   └── useSnakeGame.ts            
-│   ├── globals.css                    
-│   ├── layout.tsx                     
-│   └── page.tsx                       
+│   │   └── useSnakeGame.ts            # Hook customizado com lógica do jogo
+│   ├── globals.css                    # Estilos globais da aplicação
+│   ├── layout.tsx                     # Layout raiz da aplicação
+│   └── page.tsx                       # Página principal
 
 ```
 
