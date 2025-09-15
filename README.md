@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🐍 Snake Game
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -33,6 +34,7 @@ React Hooks - useState, useEffect, useCallback para gerenciamento de estado
 
 # Estrutura do Projeto
 
+´´´
 src/
 ├── app/
 │   ├── components/
@@ -51,6 +53,7 @@ src/
 │   ├── layout.tsx                     # Layout raiz da aplicação
 │   └── page.tsx                       # Página principal
 
+´´´
 
 # Como Jogar
 
@@ -98,3 +101,7 @@ Contato: (31) 99953-3581
 <div align="center">
   <p>🐍 Divirta-se jogando Snake Game!</p>
 </div>
+=======
+# snake-game
+Snake game simples construído com Next.js e TypeScript
+>>>>>>> b3d5be956e5d57cecbbd1acd76e9ba9f5b9c5c02
