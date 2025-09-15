@@ -39,19 +39,19 @@ src/
 ├── app/
 │   ├── components/
 │   │   ├── board/
-│   │   │   ├── board.tsx              # Componente do tabuleiro do jogo
-│   │   │   └── board.module.css       # Estilos do tabuleiro
+│   │   │   ├── board.tsx              
+│   │   │   └── board.module.css       
 │   │   ├── button/
-│   │   │   ├── button.tsx             # Componente de botão reutilizável
-│   │   │   └── button.module.css      # Estilos do botão
+│   │   │   ├── button.tsx             
+│   │   │   └── button.module.css      
 │   │   └── header/
-│   │       ├── header.tsx             # Componente do cabeçalho
-│   │       └── header.module.css      # Estilos do cabeçalho
+│   │       ├── header.tsx             
+│   │       └── header.module.css      
 │   ├── hooks/
-│   │   └── useSnakeGame.ts            # Hook customizado com lógica do jogo
-│   ├── globals.css                    # Estilos globais da aplicação
-│   ├── layout.tsx                     # Layout raiz da aplicação
-│   └── page.tsx                       # Página principal
+│   │   └── useSnakeGame.ts            
+│   ├── globals.css                    
+│   ├── layout.tsx                     
+│   └── page.tsx                       
 
 ´´´
 
