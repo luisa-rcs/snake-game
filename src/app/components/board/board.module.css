@@ -1,0 +1,45 @@
+/* Board Module CSS */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+/* Board styles */
+.board {
+  display: grid;
+  grid-template-columns: repeat(20, 24px);
+  grid-template-rows: repeat(20, 24px);
+  gap: 2px;
+  background-color: #222;
+  padding: 8px;
+}
+
+/* Cell styles */
+.cell {
+  width: 24px;
+  height: 24px;
+  background-color: #333;
+  border-radius: 4px;
+}
+
+/* Specific styles for snake and food */
+.snake {
+  background-color: #2ecc71;
+}
+
+.food {
+  background-color: #e74c3c;
+}
+
+/* Game controls and score display */
+.controls {
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+.score {
+  font-size: 18px;
+}

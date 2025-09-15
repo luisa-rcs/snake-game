@@ -1,0 +1,15 @@
+/* Button Module CSS */
+.button {
+  background-color: #2ecc71; /* Default color */
+  border: none;
+  padding: 8px 16px;
+  color: white;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+/* Hover effect */
+.button:hover {
+  background-color: #27ae60;
+}

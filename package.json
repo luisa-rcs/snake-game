@@ -1,11 +1,20 @@
 {
-  "name": "snake",
-  "version": "0.1.0",
+  "name": "snake-game",
+  "version": "1.0.0",
+  "description": "Snake game simples construido com Next.js e TypeScript",
   "private": true,
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luisa-rcs/Snake_game.git"
+  },
+  "author": "Luísa Silva",
+  "license": "MIT",
+
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
-    "start": "next start",
+    "start": "npm start",
     "lint": "next lint"
   },
   "dependencies": {

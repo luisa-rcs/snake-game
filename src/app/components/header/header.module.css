@@ -1,0 +1,16 @@
+/* Header component styles */
+.header {
+  text-align: center;
+}
+
+/* Header styles */
+.header h1 {
+  font-size: 36px;
+  margin-bottom: 8px;
+}
+
+/* Subtitle styles */
+.header p {
+  color: #aaa;
+  margin: 0;
+}
