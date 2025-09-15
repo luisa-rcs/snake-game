@@ -1,7 +1,7 @@
 {
   "name": "snake-game",
   "version": "1.0.0",
-  "description": "Snake game simples construido com Next.js e TypeScript",
+  "description": "Snake game simples construído com Next.js e TypeScript",
   "private": true,
 
   "repository": {
